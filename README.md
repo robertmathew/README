@@ -45,11 +45,11 @@
   <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=robertmathew&theme=dark&hide_border=false" /> 
 </td>
 
-<td width="50%" align="center">
+<!-- <td width="50%" align="center">
 
   <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=robertmathew&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
   
-  </td>
+  </td> -->
 </tr>
 </table>
 <!--- stats (end) -->
@@ -92,7 +92,7 @@
 <!--icons and links-->
 <p align="center">
 <a href="https://www.linkedin.com/in/robertcmathew/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
-<a href="https://mastodon.social/@silent_robo" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234981169-2dd1e58f-4b7e-468c-8213-034ba62156c3.png" alt="mastodon" height="50" width="50" /></a>
+<a href="https://mastodon.social/@silent_robo" target="blank"><img align="center" src="assets/Mastodon_logotype_(simple)_new_hue.svg" alt="mastodon" height="50" width="50" /></a>
 </p>
 
 
