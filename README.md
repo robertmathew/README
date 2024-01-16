@@ -34,7 +34,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=kotlin,java,flutter,dart,git,firebase,github,idea,linux,vscode&perline=14" />
+    <img src="https://skillicons.dev/icons?i=android,kotlin,java,flutter,dart,git,firebase,github,idea,linux,vscode&perline=14" />
   </a>
 </p>
 
