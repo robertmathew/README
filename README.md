@@ -15,9 +15,7 @@
 
 
 <!--Intro start-->
-- 🔭 I’m currently working on **Android Native Development - Kotlin, Compose**
-
-- 🌱 I’m currently learning **Kotlin Multiplatform**
+- 🔭 I’m currently working on **Kotlin Multiplatform**
 <!--Intro end-->
 
 
